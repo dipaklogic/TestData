@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         var ascendingNumbers = numbers.sorted { (a, b) -> Bool in
             a>b
         }
-
+        fxbmdfl;,gl;dfgl;dfg;df;gd;gp;dfkgp;dfkg
         //closure syntax
         ascendingNumbers = numbers.sorted(by: >)
 
